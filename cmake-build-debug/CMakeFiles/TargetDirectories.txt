@@ -1,0 +1,3 @@
+/home/kionex/CLionProjects/VSYS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kionex/CLionProjects/VSYS/cmake-build-debug/CMakeFiles/VSYS.dir
+/home/kionex/CLionProjects/VSYS/cmake-build-debug/CMakeFiles/edit_cache.dir
